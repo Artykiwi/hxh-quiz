@@ -23,4 +23,4 @@ function main() {
     alert("this quiz was made by artykiwi (Refresh page to restart quiz)")
 }
 
-setTimeout(main, 0)
+setTimeout(main, 100)
